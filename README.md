@@ -63,14 +63,3 @@
 
 ## ![MaxiDLK's Stats](https://github-readme-stats.vercel.app/api?username=MaxiDLK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
-
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
