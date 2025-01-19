@@ -35,11 +35,21 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Ionic](https://img.shields.io/badge/Ionic-%234385F4.svg?style=for-the-badge&logo=ionic&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Ionic](https://img.shields.io/badge/Ionic-%234385F4.svg?style=for-the-badge&logo=ionic&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+- **Software**:
+
+   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+
+
 
 
 
