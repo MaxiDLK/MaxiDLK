@@ -14,10 +14,20 @@
 
 <br>
 
-- Full stack dev
-- Recently finished a web designer career
-- Looking for a job to gain more experience on the field
-- Currently learning more by self-learning
+👋 Hi there! I'm Maxi, a full-stack developer passionate about building innovative and functional web solutions. I recently completed my studies in Web Design and Development, and I'm looking for opportunities to apply and expand my knowledge in the field.
+
+🔧 Tools & Technologies:
+
+Languages & Frameworks: Python, JavaScript, HTML5, CSS3, React, Node.js, Ionic
+Version Control: Git, GitHub
+Development Environments: Visual Studio Code
+Design & Multimedia: Adobe Photoshop, Illustrator, After Effects, Premiere Pro
+📚 Currently, I'm enhancing my skills through self-learning and working on projects such as:
+
+RapiEnvios: A mobile application developed in Ionic as a final project for the mobile applications course, focused on optimizing courier services.
+Zapart: An e-commerce platform for sneaker purchases, developed as a final project using React.
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxiDLK/RapiEnvios)
+🚀 I'm excited to collaborate on challenging projects that allow me to grow professionally and contribute with effective solutions in the web development world.
 
 <br><br>
 
